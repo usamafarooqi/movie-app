@@ -1,0 +1,18 @@
+@import "../../commen/color.scss";
+.header {
+    background-color: $primary-color;
+    height: 72px;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo {
+    color:$font-primary;
+    font-size: 24px;
+    font-weight: 600;
+}
+.user-image img {
+    height: 38px;
+    width: 38px;
+}

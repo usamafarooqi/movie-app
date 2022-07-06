@@ -1,0 +1,10 @@
+@import "/src/commen/color.scss";
+.footer {
+    background: $primary-color;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    color: $font-primary;
+    justify-content: center;
+    flex-direction: column;
+}
